@@ -1,2 +1,3 @@
 # studentlunchjkl
-A website that combines online Jyväskylä student lunch menus to one
+
+A website that combines Jyväskylä's online student lunch menus to one
